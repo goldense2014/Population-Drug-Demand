@@ -1,5 +1,3 @@
-Capstone 2 for Springboard's Data Science Bootcamp
-
 Industry: Healthcare
 
 Problem: Prescription drug shortage & aging population causing stress on the healthcare system.
